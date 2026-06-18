@@ -1,2 +1,4 @@
 # OpenStudio-python-measure-tester
-Python package for testing Python OpenStudio Measures
+
+This is a python package for testing Python OpenStudio Measures
+
